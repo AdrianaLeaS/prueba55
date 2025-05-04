@@ -1,1 +1,3 @@
 Otro contenido para crear conflicto desde main
+creando conflicto en 3,2,1...
+Me quedo con el contenido de los dos archivos
