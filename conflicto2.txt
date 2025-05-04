@@ -1,1 +1,1 @@
-segundo archivo de conflicto
+Otro contenido para crear conflicto desde main
